@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\dodawanieUlamkow\obj\Debug\dodawanieUlamkow.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\dodawanieUlamkow\obj\Debug\dodawanieUlamkow.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\dodawanieUlamkow\obj\Debug\dodawanieUlamkow.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\dodawanieUlamkow\bin\Debug\dodawanieUlamkow.exe.config
+C:\Users\tymot\source\repos\dodawanieUlamkow\bin\Debug\dodawanieUlamkow.exe
+C:\Users\tymot\source\repos\dodawanieUlamkow\bin\Debug\dodawanieUlamkow.pdb
+C:\Users\tymot\source\repos\dodawanieUlamkow\obj\Debug\dodawanieUlamkow.exe
+C:\Users\tymot\source\repos\dodawanieUlamkow\obj\Debug\dodawanieUlamkow.pdb

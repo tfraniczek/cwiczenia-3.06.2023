@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\tymot\source\repos\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\tymot\source\repos\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\tymot\source\repos\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\kalkulator\obj\Debug\kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\tymot\source\repos\kalkulator\obj\Debug\kalkulator.pdb

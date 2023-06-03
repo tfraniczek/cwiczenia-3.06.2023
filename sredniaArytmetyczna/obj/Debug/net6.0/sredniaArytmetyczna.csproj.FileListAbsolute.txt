@@ -1,0 +1,15 @@
+C:\Users\tymot\source\repos\sredniaArytmetyczna\bin\Debug\net6.0\sredniaArytmetyczna.exe
+C:\Users\tymot\source\repos\sredniaArytmetyczna\bin\Debug\net6.0\sredniaArytmetyczna.deps.json
+C:\Users\tymot\source\repos\sredniaArytmetyczna\bin\Debug\net6.0\sredniaArytmetyczna.runtimeconfig.json
+C:\Users\tymot\source\repos\sredniaArytmetyczna\bin\Debug\net6.0\sredniaArytmetyczna.dll
+C:\Users\tymot\source\repos\sredniaArytmetyczna\bin\Debug\net6.0\sredniaArytmetyczna.pdb
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.AssemblyInfoInputs.cache
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.AssemblyInfo.cs
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.dll
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\refint\sredniaArytmetyczna.dll
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.pdb
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\sredniaArytmetyczna.genruntimeconfig.cache
+C:\Users\tymot\source\repos\sredniaArytmetyczna\obj\Debug\net6.0\ref\sredniaArytmetyczna.dll

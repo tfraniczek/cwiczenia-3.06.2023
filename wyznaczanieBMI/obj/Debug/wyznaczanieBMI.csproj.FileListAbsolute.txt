@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\wyznaczanieBMI\bin\Debug\wyznaczanieBMI.exe.config
+C:\Users\tymot\source\repos\wyznaczanieBMI\bin\Debug\wyznaczanieBMI.exe
+C:\Users\tymot\source\repos\wyznaczanieBMI\bin\Debug\wyznaczanieBMI.pdb
+C:\Users\tymot\source\repos\wyznaczanieBMI\obj\Debug\wyznaczanieBMI.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\wyznaczanieBMI\obj\Debug\wyznaczanieBMI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\wyznaczanieBMI\obj\Debug\wyznaczanieBMI.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\wyznaczanieBMI\obj\Debug\wyznaczanieBMI.exe
+C:\Users\tymot\source\repos\wyznaczanieBMI\obj\Debug\wyznaczanieBMI.pdb

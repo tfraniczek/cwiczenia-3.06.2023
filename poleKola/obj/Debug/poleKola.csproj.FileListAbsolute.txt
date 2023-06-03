@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\poleKola\bin\Debug\poleKola.exe.config
+C:\Users\tymot\source\repos\poleKola\bin\Debug\poleKola.exe
+C:\Users\tymot\source\repos\poleKola\bin\Debug\poleKola.pdb
+C:\Users\tymot\source\repos\poleKola\obj\Debug\poleKola.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\poleKola\obj\Debug\poleKola.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\poleKola\obj\Debug\poleKola.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\poleKola\obj\Debug\poleKola.exe
+C:\Users\tymot\source\repos\poleKola\obj\Debug\poleKola.pdb

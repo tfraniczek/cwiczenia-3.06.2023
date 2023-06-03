@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "porownywanieLiczb", "porownywanieLiczb.csproj", "{94B7809D-61D3-4B08-9C86-CE4120FD1E53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B7809D-61D3-4B08-9C86-CE4120FD1E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B7809D-61D3-4B08-9C86-CE4120FD1E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B7809D-61D3-4B08-9C86-CE4120FD1E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B7809D-61D3-4B08-9C86-CE4120FD1E53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E720CF6-94B9-4CAF-ADE2-4337B4659E05}
+	EndGlobalSection
+EndGlobal

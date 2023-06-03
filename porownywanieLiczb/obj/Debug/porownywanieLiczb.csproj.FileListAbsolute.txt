@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\porownywanieLiczb\bin\Debug\porownywanieLiczb.exe.config
+C:\Users\tymot\source\repos\porownywanieLiczb\bin\Debug\porownywanieLiczb.exe
+C:\Users\tymot\source\repos\porownywanieLiczb\bin\Debug\porownywanieLiczb.pdb
+C:\Users\tymot\source\repos\porownywanieLiczb\obj\Debug\porownywanieLiczb.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\porownywanieLiczb\obj\Debug\porownywanieLiczb.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\porownywanieLiczb\obj\Debug\porownywanieLiczb.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\porownywanieLiczb\obj\Debug\porownywanieLiczb.exe
+C:\Users\tymot\source\repos\porownywanieLiczb\obj\Debug\porownywanieLiczb.pdb

@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\bokiTrojkada\bin\Debug\bokiTrojkada.exe.config
+C:\Users\tymot\source\repos\bokiTrojkada\bin\Debug\bokiTrojkada.exe
+C:\Users\tymot\source\repos\bokiTrojkada\bin\Debug\bokiTrojkada.pdb
+C:\Users\tymot\source\repos\bokiTrojkada\obj\Debug\bokiTrojkada.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\bokiTrojkada\obj\Debug\bokiTrojkada.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\bokiTrojkada\obj\Debug\bokiTrojkada.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\bokiTrojkada\obj\Debug\bokiTrojkada.exe
+C:\Users\tymot\source\repos\bokiTrojkada\obj\Debug\bokiTrojkada.pdb

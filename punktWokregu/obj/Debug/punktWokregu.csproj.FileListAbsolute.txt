@@ -1,0 +1,8 @@
+C:\Users\tymot\source\repos\punktWokregu\bin\Debug\punktWokregu.exe.config
+C:\Users\tymot\source\repos\punktWokregu\bin\Debug\punktWokregu.exe
+C:\Users\tymot\source\repos\punktWokregu\bin\Debug\punktWokregu.pdb
+C:\Users\tymot\source\repos\punktWokregu\obj\Debug\punktWokregu.csproj.AssemblyReference.cache
+C:\Users\tymot\source\repos\punktWokregu\obj\Debug\punktWokregu.csproj.SuggestedBindingRedirects.cache
+C:\Users\tymot\source\repos\punktWokregu\obj\Debug\punktWokregu.csproj.CoreCompileInputs.cache
+C:\Users\tymot\source\repos\punktWokregu\obj\Debug\punktWokregu.exe
+C:\Users\tymot\source\repos\punktWokregu\obj\Debug\punktWokregu.pdb
